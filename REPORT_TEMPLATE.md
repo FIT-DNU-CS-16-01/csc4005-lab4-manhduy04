@@ -2,10 +2,10 @@
 
 ## 1. Thông tin sinh viên
 
-- Họ tên:
-- Mã sinh viên:
-- Lớp:
-- Link GitHub repo:
+- Họ tên: Nguyễn Mạnh Duy
+- Mã sinh viên: 167104006
+- Lớp:16 - 01
+- Link GitHub repo:https://github.com/FIT-DNU-CS-16-01/csc4005-lab4-manhduy04/
 - Link W&B project:https://wandb.ai/duy19912745-dainam-vietnam/csc4005-lab4-urbansound8k-crnn?nw=nwuserduy19912745
 
 ## 2. Mục tiêu thí nghiệm
